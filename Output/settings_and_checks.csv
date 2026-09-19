@@ -1,0 +1,11 @@
+item,value
+theta (trade elasticity),4.0
+shock: T_hat for China,1.1
+kappa (step size),0.5
+tol (convergence tolerance),1e-10
+part iii: iterations to converge,257
+part iii: final max |Z|,9.96354110327502e-11
+part v: iterations to converge,246
+part v: final max |Z|,9.780021237304481e-11
+"China wage change vs US, transfers in US wage (%)",2.17721177868464
+"China wage change vs US, transfers in Chinese wage (%)",2.0759429045782873

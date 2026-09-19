@@ -1,0 +1,7 @@
+outcome,regressor,slope,std_err,t_stat,R2,N
+ln(real wage),ln(pi_hat_ii)  [change in domestic share],-0.25,0.0,-2560207327372.1333,1.0,40
+ln(real wage),ln(Phi_hat_i)  [change in market access],-0.078165,0.012986,-6.019167,0.48808,40
+ln(real wage),pi0_iChina  [initial share on Chinese goods],0.00366,0.000357,10.246552,0.734251,40
+ln(real expenditure),ln(pi_hat_ii)  [change in domestic share],-0.285646,0.006,-47.606433,0.98351,40
+ln(real expenditure),ln(Phi_hat_i)  [change in market access],-0.093427,0.014407,-6.484854,0.525316,40
+ln(real expenditure),pi0_iChina  [initial share on Chinese goods],0.003974,0.000471,8.438827,0.652059,40

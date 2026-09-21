@@ -32,7 +32,6 @@ The main results are exported by section, so these can be reviewed without readi
 | `part4_real_wage_expenditure.csv` | iv | Wage, price index, real wage and real expenditure changes for each country |
 | `part4_regressions.csv` | iv | Results of the six regressions |
 | `part5_comparison.csv` | v | Real wage and real expenditure under both transfer numeraires, their difference, and `y0` |
-| `part5_regressions.csv` | v | Differences in outcomes regressed on the baseline transfer share, `1 - y0` |
 | `EK_model_results.xlsx` | all | All of the tables above, one sheet per table |
 
 The notebook itself contains the same results together with the code and explanations.

@@ -1,7 +1,7 @@
-outcome,regressor,slope,std_err,t_stat,R2,N
-ln(real wage),ln(pi_hat_ii)  [change in domestic share],-0.25,0.0,-2560207327372.1333,1.0,40
-ln(real wage),ln(Phi_hat_i)  [change in market access],-0.078165,0.012986,-6.019167,0.48808,40
-ln(real wage),pi0_iChina  [initial share on Chinese goods],0.00366,0.000357,10.246552,0.734251,40
-ln(real expenditure),ln(pi_hat_ii)  [change in domestic share],-0.285646,0.006,-47.606433,0.98351,40
-ln(real expenditure),ln(Phi_hat_i)  [change in market access],-0.093427,0.014407,-6.484854,0.525316,40
-ln(real expenditure),pi0_iChina  [initial share on Chinese goods],0.003974,0.000471,8.438827,0.652059,40
+outcome,regressor,intercept,slope,std_err,t_stat,R2,N
+ln(real wage),ln(pi_hat_ii)  [change in domestic share],0.0,-0.25,0.0,-2560207327372.1333,1.0,40
+ln(real wage),ln(Phi_hat_i)  [change in market access],7.9239e-06,-0.0781645137,0.0129859364,-6.0191665313,0.4880801189,40
+ln(real wage),pi0_iChina  [initial share on Chinese goods],-1.82473e-05,0.003659954,0.0003571888,10.2465524087,0.7342505629,40
+ln(real expenditure),ln(pi_hat_ii)  [change in domestic share],-1.7639e-06,-0.2856455534,0.0060001462,-47.6064325089,0.9835096099,40
+ln(real expenditure),ln(Phi_hat_i)  [change in market access],5.9456e-06,-0.0934270657,0.0144069663,-6.4848535053,0.5253164062,40
+ln(real expenditure),pi0_iChina  [initial share on Chinese goods],-1.96739e-05,0.0039736989,0.0004708828,8.4388270461,0.6520586287,40

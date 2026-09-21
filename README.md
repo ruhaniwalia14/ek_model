@@ -5,17 +5,6 @@ Submission by Ruhani Walia
 This README explains what is in the submission and where to find each part of the assignment.
 
 ## Contents at a glance
-
-```
-Applied Economics Incubator App/
-├── README.md              this file
-├── MainScript.ipynb       parts ii to v (code, results, written interpretation)
-├── Part i                 handwritten derivation for part i
-├── Background Notes/      my reading notes on the paper
-├── Input/                 the two data files provided with the assignment
-└── Output/                exported results per section
-```
-
 | Item | What it is |
 |---|---|
 | `Part i` | My handwritten derivation of the exact hat algebra system and the excess labor demand equation (2).|
